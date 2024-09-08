@@ -1,7 +1,5 @@
 #this file will be used to get the API keys from the JSON files one folder up
 import json
-
-
 APIKeysFolder = "..\\API keys\\"
 
 
